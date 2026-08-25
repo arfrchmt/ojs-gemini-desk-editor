@@ -12,7 +12,7 @@ Plugin ini memungkinkan pengelola jurnal/editor menentukan aturan pengecekan tem
 Kustomisasi penuh aturan validasi template naskah langsung dari dashboard pengaturan plugin:
 
 <p align="center">
-  <img src="docs/screenshot1.png" alt="Plugin Settings" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
+  <img src="screenshot1.png" alt="OJS Gemini Reviewer Preview" width="550">
 </p>
 
 ---
@@ -21,8 +21,9 @@ Kustomisasi penuh aturan validasi template naskah langsung dari dashboard pengat
 Tombol tindakan editorial langsung terintegrasi di halaman alur kerja naskah OJS:
 
 <p align="center">
-  <img src="docs/screenshot2.png" alt="Workflow Action" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
+  <img src="screenshot2.png" alt="OJS Gemini Reviewer Preview" width="550">
 </p>
+
 
 ---
 
@@ -30,8 +31,9 @@ Tombol tindakan editorial langsung terintegrasi di halaman alur kerja naskah OJS
 Hasil evaluasi komprehensif menampilkan skor kelulusan, tabel checklist per elemen, serta draf email perbaikan siap kirim ke penulis:
 
 <p align="center">
-  <img src="docs/screenshot3.png" alt="Screening Report" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
+  <img src="screenshot3.png" alt="OJS Gemini Reviewer Preview" width="550">
 </p>
+
 
 ---
 
