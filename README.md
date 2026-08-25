@@ -11,27 +11,21 @@ Plugin ini memungkinkan pengelola jurnal/editor menentukan aturan pengecekan tem
 ### 1. Pengaturan Prompt & Validation Rules
 Kustomisasi penuh aturan validasi template naskah langsung dari dashboard pengaturan plugin:
 
-<p align="center">
-  <img src="docs/screenshot1.png" alt="Plugin Settings" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
-</p>
+![Plugin Settings](docs/Screenshot1.png)
 
 ---
 
 ### 2. Tombol Eksekusi di Submission Workflow
 Tombol tindakan editorial langsung terintegrasi di halaman alur kerja naskah OJS:
 
-<p align="center">
-  <img src="docs/screenshot2.png" alt="Workflow Action" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
-</p>
+![Workflow Action](docs/Screenshot2.png)
 
 ---
 
 ### 3. Modal Laporan Skor & Checklist Kepatuhan Template
 Hasil evaluasi komprehensif menampilkan skor kelulusan, tabel checklist per elemen, serta draf email perbaikan siap kirim ke penulis:
 
-<p align="center">
-  <img src="docs/screenshot3.png" alt="Screening Report" width="800" style="border: 1px solid #e2e8f0; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);" />
-</p>
+![Screening Report](docs/Screenshot3.png)
 
 ---
 
