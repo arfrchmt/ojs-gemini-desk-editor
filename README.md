@@ -11,7 +11,7 @@ Plugin ini memungkinkan pengelola jurnal/editor menentukan aturan pengecekan tem
 ### 1. Pengaturan Prompt & Validation Rules
 Kustomisasi penuh aturan validasi template naskah langsung dari dashboard pengaturan plugin:
 
-![Plugin Settings](docs/Screenshot1.png)
+![Plugin Settings](docs/Screenshot3.png)
 
 ---
 
@@ -25,7 +25,7 @@ Tombol tindakan editorial langsung terintegrasi di halaman alur kerja naskah OJS
 ### 3. Modal Laporan Skor & Checklist Kepatuhan Template
 Hasil evaluasi komprehensif menampilkan skor kelulusan, tabel checklist per elemen, serta draf email perbaikan siap kirim ke penulis:
 
-![Screening Report](docs/Screenshot3.png)
+![Screening Report](docs/Screenshot1.png)
 
 ---
 
