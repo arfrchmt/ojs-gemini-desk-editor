@@ -12,7 +12,7 @@ Plugin ini memungkinkan pengelola jurnal/editor menentukan aturan pengecekan tem
 Kustomisasi penuh aturan validasi template naskah langsung dari dashboard pengaturan plugin:
 
 <p align="center">
-  <img src="docs/screenshot3.png" alt="OJS Gemini Reviewer Preview" width="550">
+  <img src="blob/main/docs/Screenshot1.png" alt="OJS Gemini Reviewer Preview" width="550">
 </p>
 
 ---
